@@ -13,7 +13,7 @@
   "paths": {
     "/users": {
       "get": {
-        "summary": "Get a list of all users",
+        "summary": "Get a list of all the users",
         "operationId": "getUsers",
         "responses": {
           "200": {
